@@ -1,0 +1,13 @@
+target/
+*.class
+*.jar
+*.war
+*.ear
+.mvn/wrapper/maven-wrapper.jar
+.DS_Store
+.metadata/
+.settings/
+.classpath
+.project
+.vscode/
+
